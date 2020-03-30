@@ -25,35 +25,35 @@
 }
 
 .home {
-  width: 170px;
   font-family: "Gotham Rounded Medium";
   font-size: 35px;
+  width: 170px;
   letter-spacing: -2.30894px;
 }
 
 .services {
-  width: 190px;
   font-family: "Gotham Rounded";
   font-weight: 325;
   font-size: 35px;
+  width: 190px;
   letter-spacing: -2.30894px;
   color: #241e21;
 }
 
 .pricing {
-  width: 190px;
   font-family: "Gotham Rounded";
   font-weight: 325;
   font-size: 35px;
+  width: 190px;
   letter-spacing: -2.30894px;
   color: #241e21;
 }
 
 .works {
-  width: 190px;
   font-family: "Gotham Rounded";
   font-weight: 325;
   font-size: 35px;
+  width: 190px;
   letter-spacing: -2.30894px;
   color: #241e21;
 }
@@ -82,11 +82,11 @@ a {
 /* Text */
 
 .secret {
-  width: 380px;
-  padding: 120px 0px 0px 80px;
   font-family: "Gotham Rounded";
   font-weight: 325;
   font-size: 50px;
+  width: 380px;
+  padding: 120px 0px 0px 80px;
   letter-spacing: -2.67561px;
   color: #302a2c;
 }
@@ -112,10 +112,10 @@ a {
 }
 
 .get_started {
-  padding-left: 30px;
   font-family: "Gotham Rounded";
   font-weight: 320;
   font-size: 23px;
+  padding-left: 30px;
   line-height: 42px;
   letter-spacing: -1.73171px;
   color: #ffffff;
