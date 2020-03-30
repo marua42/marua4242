@@ -1,7 +1,8 @@
 /* Co.com */
 
 .logo {
-  width: 530px;
+  display: flex;
+  padding-left: 80px;
 }
 
 .co-logo {
@@ -21,7 +22,7 @@
 .section {
   display: flex;
   justify-content: flex-end;
-  padding: 45px 0px 40px 45px;
+  margin-bottom: 20px;
 }
 
 .home {
