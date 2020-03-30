@@ -17,6 +17,11 @@
   color: #ff5a0d;
 }
 
+.header{
+  display: block;
+  padding-top: 20px;
+}
+
 /* Section */
 
 .section {
