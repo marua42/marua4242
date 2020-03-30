@@ -135,7 +135,7 @@ a {
 .rectangle {
   width: 306px;
   height: 79px;
-  margin: 0px 0px 0px 60px;
+  margin: 0px 23px 0px 60px;
   background: #ff5a0d;
   border-radius: 5px;
 }
@@ -146,7 +146,7 @@ a {
   font-size: 30px;
   width: 165px;
   height: 36px;
-  padding: 20px 0px 0px 70px;
+  padding: 5px 0px 0px 60px;
   line-height: 36px;
   letter-spacing: -1.73171px;
   color: #ffffff;
@@ -155,7 +155,7 @@ a {
 .rectangle-copy {
   width: 306px;
   height: 79px;
-  margin: -79px 0px 0px 400px;
+  padding: 0px 0px 25px 0px;
   background: #241e21;
   border-radius: 5px;
 }
@@ -179,4 +179,8 @@ a {
 
 .rectangle-copy:hover{
   background: #ff5a0d;
+}
+
+.buttons{
+  display: flex;
 }
