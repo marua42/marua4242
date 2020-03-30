@@ -1,0 +1,141 @@
+/* Co.com */
+
+.logo {
+  width: 530px;
+}
+
+.co-logo {
+  font-family: "Gotham Rounded Medium";
+  font-size: 35px;
+  letter-spacing: -2.65528px;
+  text-decoration: none;
+  color: #241e21;
+}
+
+.com-logo {
+  color: #ff5a0d;
+}
+
+/* Section */
+
+.section {
+  display: flex;
+  justify-content: flex-end;
+  padding: 45px 0px 40px 45px;
+}
+
+.home {
+  width: 170px;
+  font-family: "Gotham Rounded Medium";
+  font-size: 35px;
+  letter-spacing: -2.30894px;
+}
+
+.services {
+  width: 190px;
+  font-family: "Gotham Rounded";
+  font-weight: 325;
+  font-size: 35px;
+  letter-spacing: -2.30894px;
+  color: #241e21;
+}
+
+.pricing {
+  width: 190px;
+  font-family: "Gotham Rounded";
+  font-weight: 325;
+  font-size: 35px;
+  letter-spacing: -2.30894px;
+  color: #241e21;
+}
+
+.works {
+  width: 190px;
+  font-family: "Gotham Rounded";
+  font-weight: 325;
+  font-size: 35px;
+  letter-spacing: -2.30894px;
+  color: #241e21;
+}
+
+a {
+  text-decoration: none;
+}
+
+.section-link {
+  color: #241e21;
+}
+
+.section-link:visited {
+  color: #ff5a0d;
+}
+
+.home-link {
+  color: #241e21;
+}
+
+.home-link:active {
+  font-weight: 350;
+  color: #ff5a0d;
+}
+
+/* Text */
+
+.secret {
+  width: 380px;
+  padding: 120px 0px 0px 80px;
+  font-family: "Gotham Rounded";
+  font-weight: 325;
+  font-size: 50px;
+  letter-spacing: -2.67561px;
+  color: #302a2c;
+}
+
+.world {
+  font-family: "Gotham Rounded Medium";
+  color: #ff5a0d;
+}
+
+.general {
+  display: flex;
+  justify-content: space-between;
+}
+
+/* Buttons */
+
+.rectangle {
+  margin: 25px 0px 0px 80px;
+  width: 180px;
+  height: 45px;
+  background: #ff5a0d;
+  border-radius: 2px;
+}
+
+.get_started {
+  padding-left: 30px;
+  font-family: "Gotham Rounded";
+  font-weight: 320;
+  font-size: 23px;
+  line-height: 42px;
+  letter-spacing: -1.73171px;
+  color: #ffffff;
+}
+
+.rectangle-copy {
+  margin: -45px 0px 0px 280px;
+  width: 180px;
+  height: 45px;
+  background: #241e21;
+  border-radius: 3px;
+}
+
+.our_works {
+  font-family: "Gotham Rounded";
+  font-weight: 320;
+  font-size: 23px;
+  padding-left: 33px;
+  line-height: 42px;
+  text-align: center;
+  letter-spacing: -1.73171px;
+  color: #ffffff;
+}
