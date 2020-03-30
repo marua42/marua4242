@@ -1,5 +1,10 @@
 /* Co.com */
 
+.header{
+  display: flex;
+  justify-content: space-between;
+}
+
 .logo {
   display: flex;
   padding-left: 80px;
@@ -26,7 +31,7 @@
 
 .section {
   display: flex;
-  justify-content: flex-end;
+  justify-content: space-between;
   margin-bottom: 20px;
 }
 
@@ -90,8 +95,8 @@ a {
 .secret {
   font-family: "Gotham Rounded";
   font-weight: 325;
-  font-size: 50px;
-  width: 380px;
+  font-size: 81px;
+  
   padding: 120px 0px 0px 80px;
   letter-spacing: -2.67561px;
   color: #302a2c;
