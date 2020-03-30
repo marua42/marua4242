@@ -25,9 +25,9 @@
   color: #ff5a0d;
 }
 
-/* Section */
+/* Menu */
 
-.section {
+.menu {
   display: flex;
   justify-content: space-between;
   margin-bottom: 20px;
@@ -84,29 +84,18 @@ a {
   text-decoration: none;
 }
 
-.home-link:hover{
+.menu-link:hover{
   color: #ff5a0d;
 }
 
-.section-link:hover{
-  color: #ff5a0d;
-}
-
-.section-link {
+.menu-link {
   color: #241e21;
 }
 
-.section-link:visited {
+.menu-link:visited {
   color: #ff5a0d;
 }
 
-.home-link {
-  color: #241e21;
-}
-
-.home-link:active {
-  color: #ff5a0d;
-}
 
 /* Text */
 
