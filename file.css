@@ -4,6 +4,7 @@
   display: flex;
   justify-content: space-between;
   padding-top: 40px;
+  padding-bottom: 80px;
 }
 
 .logo {
@@ -83,6 +84,14 @@ a {
   text-decoration: none;
 }
 
+.home-link:hover{
+  color: #ff5a0d;
+}
+
+.section-link:hover{
+  color: #ff5a0d;
+}
+
 .section-link {
   color: #241e21;
 }
@@ -96,7 +105,6 @@ a {
 }
 
 .home-link:active {
-  font-weight: 350;
   color: #ff5a0d;
 }
 
@@ -108,7 +116,7 @@ a {
   font-size: 81px;
   line-height: 81px;
   letter-spacing: -4.67561px;
-  padding: 120px 0px 120px 80px;
+  padding: 160px 0px 120px 80px;
   color: #302a2c;
 }
 
@@ -127,7 +135,7 @@ a {
 .rectangle {
   width: 306px;
   height: 79px;
-  margin-left: 60px;
+  margin: 0px 0px 0px 60px;
   background: #ff5a0d;
   border-radius: 5px;
 }
@@ -162,4 +170,13 @@ a {
   line-height: 36px;
   letter-spacing: -1.73171px;
   color: #ffffff;
+}
+
+
+.rectangle:hover{
+  background:  #241e21;
+}
+
+.rectangle-copy:hover{
+  background: #ff5a0d;
 }
